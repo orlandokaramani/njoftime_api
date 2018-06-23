@@ -1,0 +1,11 @@
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\bin\Debug\netcoreapp2.0\Njoftime_API.deps.json
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\bin\Debug\netcoreapp2.0\Njoftime_API.runtimeconfig.json
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\bin\Debug\netcoreapp2.0\Njoftime_API.runtimeconfig.dev.json
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\bin\Debug\netcoreapp2.0\Njoftime_API.dll
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\obj\Debug\netcoreapp2.0\Njoftime_API.csprojAssemblyReference.cache
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\obj\Debug\netcoreapp2.0\Njoftime_API.csproj.CoreCompileInputs.cache
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\obj\Debug\netcoreapp2.0\Njoftime_API.AssemblyInfoInputs.cache
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\obj\Debug\netcoreapp2.0\Njoftime_API.AssemblyInfo.cs
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\bin\Debug\netcoreapp2.0\Njoftime_API.pdb
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\obj\Debug\netcoreapp2.0\Njoftime_API.dll
+C:\Users\orland.karamani.GOV\Desktop\Njoftime_API\obj\Debug\netcoreapp2.0\Njoftime_API.pdb
